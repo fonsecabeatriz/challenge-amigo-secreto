@@ -3,7 +3,7 @@ let amigos = [];
 function adicionarAmigo() {
     let amigo = document.getElementById('amigo').value;
     if (amigo === "") {
-        alert("Por favor, preencha o campo de nome.");
+        alert("Preencha o campo de nome.");
         return;
     } 
     if (amigos.includes(amigo)) {
