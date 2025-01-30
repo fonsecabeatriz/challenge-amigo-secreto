@@ -7,6 +7,10 @@
 <h3> Desafio do curso iniciante em programação g8 - ONE - Alura. </h3>
 
 * Projeto em HTML, CSS, JavaScript; Tem como objetivo sortear um dos nomes digitados pelo usuário.
+
+[URL do projeto](https://fonsecabeatriz.github.io/challenge-amigo-secreto/)
+
+  
  
 
 
